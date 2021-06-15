@@ -3,3 +3,5 @@
 Olá ! Aqui vai ter um livro foda :smiling_imp:
 
 - Strogonoff
+- Frango
+- 
